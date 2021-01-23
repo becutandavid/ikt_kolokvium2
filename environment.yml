@@ -2,6 +2,7 @@ channels:
   - defaults
   - conda-forge
   - plotly
+  - r
 dependencies:
   - python
   - sos
@@ -9,4 +10,7 @@ dependencies:
   - sos-python
   - plotly
   - scipy
+  - r-essentials
+  - r-arrow
+  - pyarrow
 
