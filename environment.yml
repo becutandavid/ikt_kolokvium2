@@ -1,6 +1,7 @@
-name: ikt2
 channels:
   - defaults
+  - conda-forge
+  - plotly
 dependencies:
   - python=3.6
   - sos-pbs
@@ -12,4 +13,6 @@ dependencies:
   - sos-python
   - r-essentials
   - r-arrow
-prefix: C:\Users\becut\anaconda3\envs\ikt2
+  - plotly
+  - scipy
+
