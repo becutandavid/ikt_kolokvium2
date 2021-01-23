@@ -10,9 +10,5 @@ dependencies:
   - sos-python
   - plotly
   - scipy
-  - r-essentials
-  - r-arrow
-  - pyarrow
-  - sos-r
   - pandas
 
