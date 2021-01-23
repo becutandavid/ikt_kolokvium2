@@ -3,14 +3,8 @@ channels:
   - conda-forge
   - plotly
 dependencies:
-  - python=3.6
-  - sos-pbs
   - sos
   - sos-notebook
-  - sos-r
-  - sos-python
-  - r-essentials
-  - r-arrow
   - plotly
   - scipy
 
