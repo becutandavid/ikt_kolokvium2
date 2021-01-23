@@ -5,10 +5,12 @@ channels:
   - r
 dependencies:
   - python
+  - feather-format
   - sos
   - sos-notebook
   - sos-python
   - plotly
   - scipy
   - pandas
+
 
