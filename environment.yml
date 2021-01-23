@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - plotly
 dependencies:
+  - python
   - sos
   - sos-notebook
   - sos-r
