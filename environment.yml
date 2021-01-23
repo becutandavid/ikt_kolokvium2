@@ -5,6 +5,8 @@ channels:
 dependencies:
   - sos
   - sos-notebook
+  - sos-r
+  - sos-python
   - plotly
   - scipy
 
