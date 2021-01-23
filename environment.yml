@@ -1,0 +1,13 @@
+dependencies:
+  - matplotlib
+  - numpy~=1.19.3
+  - pip~=20.3.3
+  - python=3.6.12
+  - pip:
+      - feather-format
+      - julia
+      - xlrd
+      - openpyxl
+      - sos
+      - sos-notebook
+prefix: C:\Users\becut\anaconda3\envs\iktkolok2
